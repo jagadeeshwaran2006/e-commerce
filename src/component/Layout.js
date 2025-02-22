@@ -21,7 +21,8 @@ function ProjectLayout(){
             <article>
             <Outlet />
             </article>
-        </section>            
+        </section>   
+        <hr/>         
         <footer>
             <FooterBottom/>
         </footer>        
